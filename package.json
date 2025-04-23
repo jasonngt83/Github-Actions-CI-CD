@@ -2,6 +2,7 @@
   "name": "coding-quiz",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
     "start": "cd server && npm run start",
     "seed": "cd server && npm run seed",
@@ -13,6 +14,7 @@
     "test-component": "npx cypress run --component",
     "test-gui": "npx cypress open"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
