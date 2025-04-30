@@ -1,6 +1,4 @@
-# Tech Quiz Test Suite
-
-
+# GITHUB ACTION CI-CD
 
 ## Description
 
@@ -13,13 +11,10 @@ This is a Github Action challenge. The goal was to setup githup actions for auto
 
 ## Installation<a id="installation"></a>
 
-click on the link  
+click on the link to github depo https://github.com/jasonngt83/Github-Actions-CI-CD
 
 ## Usage<a id="usage"></a>
 
-To run the component test type `npm run component-test` in the command line, or type `npm run cypress` to test using the Cypress GUI.
 
-To run the End-to-End test you will need to have the server and client running. In your terminal type `npm run start:dev`
-
-Then open a new terminal window (leave the server running and the old terminal open) . In the new window run `npm run test` for a terminal based test or run `npm run cypress` to test using the Cypress GUI.
+.
 
